@@ -9,5 +9,5 @@ pandas_datareader<br>
 datatime<br>
 bokeh.plotting
 
-Running
+Running<br>
 python3 stock_analysis.py
