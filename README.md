@@ -1,4 +1,4 @@
-# Financial Graph
+# Financial Graph. Stock Analysis
 Data Visualisation in bokeh<br>
 Script was created in Jupyter Notebook. It takes data from yahoo for Google shares and represents stock analysis.
 
@@ -13,3 +13,6 @@ pip3 install bokeh
 
 ### Running<br>
 python3 stock_analysis.py
+
+### Outcome in Bokeh
+![Test Image 3](Stock Analysis.png)
