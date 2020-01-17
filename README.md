@@ -12,7 +12,7 @@ pip3 install bokeh
 *bokeh.plotting
 
 ### Running<br>
-python3 stock_analysis.py
+python3 stock_analysis.py or you can open html file
 
 ### Outcome in Bokeh
-![Bokeh](Stock Analysis.png)
+![Bokeh]("Stock Analysis.png")
