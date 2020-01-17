@@ -15,4 +15,4 @@ pip3 install bokeh
 python3 stock_analysis.py or you can open html file
 
 ### Outcome in Bokeh
-![Test](Stock Analysis.png)
+![Test](https://github.com/lizaveta-holadneva/financial_graph/blob/master/Stock%20Analysis.png)
