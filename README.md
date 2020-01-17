@@ -15,4 +15,4 @@ pip3 install bokeh
 python3 stock_analysis.py
 
 ### Outcome in Bokeh
-![Test Image 3](Stock Analysis.png)
+![Bokeh](Stock Analysis.png)
