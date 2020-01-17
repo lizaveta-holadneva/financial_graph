@@ -15,4 +15,4 @@ pip3 install bokeh
 python3 stock_analysis.py or you can open html file
 
 ### Outcome in Bokeh
-![Bokeh]("Stock Analysis.png")
+![Test](Stock Analysis.png)
